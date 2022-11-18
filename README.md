@@ -5,7 +5,7 @@ I am a Mobile & Full Stack Developer from Australia 🇦🇺
 - 🔭 I’m working as a Senior Manager at Deloitte - working on [WorkforceX](https://www2.deloitte.com/au/en/pages/about-deloitte/articles/workforce.html)
 - 🌱 Exploring Technical Content Writing & Open Source Contributing.
 - 💬 Ask me about Flutter Development, Node.JS, Docker and native mobile development!
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lachlan%20Grant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lachlangrant19/)  [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Mailgun&logoColor=white)](mailto:lachlangrant@rbvea.co)  [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-green?style=flat&logo=Mastodon&logoColor=white)](https://mastodon.social/@lachlangrant)  [![Discord Badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/239681995465031680)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lachlan%20Grant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lachlangrant19/)  [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Mailgun&logoColor=white)](mailto:lachlangrant@rbvea.co)  [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-green?style=flat&logo=Mastodon&logoColor=white)]([https://mastodon.social/@lachlangrant](https://social.rbvea.co/@lachlangrant))  [![Discord Badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/239681995465031680)
 - 🤖 3 x World Championships in RoboCup Junior with [LJ STAND](https://ljstand.com)
 
 <!--
