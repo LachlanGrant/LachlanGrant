@@ -8,9 +8,6 @@ I am a Mobile & Full Stack Developer from Australia 🇦🇺
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lachlan%20Grant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lachlangrant19/)  [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Mailgun&logoColor=white)](mailto:lachlangrant@rbvea.co)  [![Mastodon Badge](https://img.shields.io/badge/-Mastodon-green?style=flat&logo=Mastodon&logoColor=white)](https://mastodon.social/@lachlangrant)  [![Discord Badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/239681995465031680)
 - 🤖 3 x World Championships in RoboCup Junior with [LJ STAND](https://ljstand.com)
 
-[![LachlanGrants's GitHub stats](https://github-readme-stats.vercel.app/api?username=LachlanGrant&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **LachlanGrant/LachlanGrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
